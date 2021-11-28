@@ -5,7 +5,7 @@ import 'firebase/auth'
 import 'firebase/storage'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBtYW_LtLPi0vehsue3btBIOWvosvh17g8firebase deploy",
+  apiKey: "AIzaSyBtYW_LtLPi0vehsue3btBIOWvosvh17g8",
   authDomain: "eventss-fe2a1.firebaseapp.com",
   databaseURL: "https://eventss-fe2a1-default-rtdb.asia-southeast1.firebasedatabase.app",
   projectId: "eventss-fe2a1",
