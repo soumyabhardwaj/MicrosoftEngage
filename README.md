@@ -6,4 +6,5 @@ Maxmium 30 students can attend an event in the offline mode.
 Co-Code -> Right click-> open in new tab-> for pair coding functionality
 
 VideoDemo : https://www.youtube.com/watch?v=FOc9tHVP70c
+
 Hosted Site : http://ec2-3-110-124-52.ap-south-1.compute.amazonaws.com:3000/
